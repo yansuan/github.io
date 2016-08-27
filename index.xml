@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>盐酸的blog</title>
+    <link>https://yansuan.github.io/</link>
+    <description>Recent content on 盐酸的blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>89984142@qq.com (盐酸)</managingEditor>
+    <webMaster>89984142@qq.com (盐酸)</webMaster>
+    <copyright>(c) 2015 盐酸.</copyright>
+    <atom:link href="https://yansuan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
